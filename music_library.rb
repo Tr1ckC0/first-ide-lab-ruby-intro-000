@@ -17,7 +17,7 @@ music_library = [
 ]
 
 music_library.each do |artist_array|
-  puts "----------------------------"
+  puts "--------------------------------------"
   artist_array.each do |artist_element|
     if artist_element.class != Array
       puts "Artist: #{artist_element}"
@@ -31,7 +31,6 @@ music_library.each do |artist_array|
           album_element.each do |song_element|
                puts "#{song_element}"
             end
-        puts "---------------------------------------"
           end
         end
       end
