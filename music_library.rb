@@ -4,7 +4,7 @@ music_library = [
       ["Every Hour", "Selah", "Follow God"]
     ]
   ]
-  ["Kendrick Lamar"
+  ["Kendrick Lamar",
     ["DAMN.",
       ["YAH.", "DNA", "Fear."]
     ]
