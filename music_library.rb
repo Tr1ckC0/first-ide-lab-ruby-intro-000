@@ -30,7 +30,7 @@ music_library.each do |artist_array|
           album_element.each do |song_element|
                puts "#{song_element}"
             end
-        puts "--------------------"
+        puts "---------------------------------------"
           end
         end
       end
