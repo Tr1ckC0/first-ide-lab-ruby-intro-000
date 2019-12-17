@@ -28,7 +28,7 @@ music_library.each do |artist_array|
         else
           puts "Songs:"
           album_element.each do |song_element|
-               print "#{song_element} "
+               print "|#{song_element}| "
             end
           end
         end
