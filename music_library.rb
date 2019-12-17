@@ -27,8 +27,6 @@ music_library.each do |artist_array|
           puts "Album: #{album_element}"
         else
           album_element.each do |song_element|
-
-            if song_element.class != Array
               puts "Song: #{song_element}"
             end
           end
